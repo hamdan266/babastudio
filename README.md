@@ -1,2 +1,2 @@
 # babastudio
-# deploy in Netlify https://babastudio-company-profile.netlify.app/
+# deploy in Netlify : https://babastudio-company-profile.netlify.app/
