@@ -1,6 +1,5 @@
-<center>
-  <h1 class="text-center">Babastudio</h1>
-</center>
+
+<h1">Babastudio</h1>
 
 # deploy in Netlify : https://babastudio-company-profile.netlify.app/
 
