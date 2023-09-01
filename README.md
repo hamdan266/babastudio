@@ -1,4 +1,7 @@
-# babastudio
+<center>
+  # babastudio
+</center>
+
 # deploy in Netlify : https://babastudio-company-profile.netlify.app/
 
 
