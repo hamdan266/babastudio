@@ -25,6 +25,8 @@
     --font-weight-medium: 500;
     --font-weight-regular: 400;
     --font-weight-light: 300;
+
+    --bs-border-radius-sm: 0.25rem;
 }
 
 body{
@@ -164,6 +166,9 @@ section.hero{
   }
   .scroll-to-top i {
     font-weight: 800;
+  }
+  .rounded {
+    border-radius: var(--bs-border-radius) !important;
   }
 
   
