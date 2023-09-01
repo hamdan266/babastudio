@@ -1,5 +1,5 @@
 
-<h1>Babastudio</h1>
+# Babastudio
 
 # deploy in Netlify : https://babastudio-company-profile.netlify.app/
 
